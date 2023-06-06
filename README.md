@@ -44,17 +44,22 @@ The project follows a modular structure, with the main components and screens or
 - Main interface of the App.
 ![WhatsApp Image 2023-06-06 at 4 53 24 PM (1)](https://github.com/ManobhavSachan/toDoList/assets/94208034/05f0739f-6761-4b43-9078-84c89cb575d1)
 
+
 - Alert Block when adding empty task.
 ![WhatsApp Image 2023-06-06 at 4 53 25 PM (1)](https://github.com/ManobhavSachan/toDoList/assets/94208034/ceee4c3c-f29e-4f62-971a-3fd6adda379c)
+
 
 - Adding new Task.
 ![WhatsApp Image 2023-06-06 at 4 53 25 PM (2)](https://github.com/ManobhavSachan/toDoList/assets/94208034/cfb913b3-5698-4d0f-8d29-066aecb64182)
 
+
 - Marking the task as done and undone.
 ![WhatsApp Image 2023-06-06 at 4 53 25 PM (3)](https://github.com/ManobhavSachan/toDoList/assets/94208034/3c620db7-2c23-40da-a3a2-192dc9269437)
 
+
 - Confirmation message when deleting all tasks.
 ![WhatsApp Image 2023-06-06 at 4 53 24 PM](https://github.com/ManobhavSachan/toDoList/assets/94208034/075618cd-d57e-4e92-bc49-1624fc4b8cfe)
+
 
 - After deleting all tasks.
 ![WhatsApp Image 2023-06-06 at 4 53 24 PM (1)](https://github.com/ManobhavSachan/toDoList/assets/94208034/a1d34839-fe64-43ea-af10-1df16d57cda3)
